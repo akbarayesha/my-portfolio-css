@@ -18,7 +18,7 @@ export default function Home() {
           <div key={project.id} className="project-card">
             <div className="project-image">
               <Image
-                src="/Project_03.jpg"
+                src="/lap1.jpg"
                 alt={project.title}
                 layout="fill"
                 objectFit="cover"

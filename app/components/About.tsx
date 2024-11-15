@@ -8,7 +8,7 @@ export default function About() {
       <div className="about-container">
         <div className="about-image">
           <Image
-            src="/Profile.png"
+            src="/a.jpg"
             alt="Profile"
             layout="fill"
             objectFit="cover"
